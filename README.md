@@ -6,7 +6,8 @@ This is actually a port of the chrome extension from: [daberni/jira-copy-comment
 
 ## Download
 
-You can download the here: [Safari extension](https://github.com/patricks/jira-issue-copy/tree/master/release/jira-issue-copy.safariextz)
+You can download the here: [Safari extension]
+(https://github.com/patricks/jira-issue-copy/raw/master/release/jira-issue-copy.safariextz)
 
 ## Screenshot
 
