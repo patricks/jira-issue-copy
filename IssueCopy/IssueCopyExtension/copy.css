@@ -1,0 +1,11 @@
+/* Board Side */
+
+.ghx-actions-tools.jira-copy-comments {
+	margin-left: 0 !important;
+	margin-right: 10px;
+	cursor: pointer;
+}
+
+.pluggable-ops.jira-copy-comments .aui-button {
+	padding-left: 6px !important;
+}
