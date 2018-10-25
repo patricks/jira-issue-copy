@@ -7,7 +7,7 @@ This is actually a port of the chrome extension from: [daberni/jira-copy-comment
 ## Download
 
 * Download old version for Safari <= 11.x here 👉 [Safari extension](https://github.com/patricks/jira-issue-copy/raw/master/release/jira-issue-copy.safariextz)
-* Download new version for Safari >= 12.x here 👉 Coming soon
+* Download new version for Safari >= 12.x here 👉 [App Store](https://itunes.apple.com/at/app/issue-copy/id1434650725?l=en&mt=12)
 
 ## Screenshot
 
